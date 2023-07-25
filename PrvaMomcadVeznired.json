@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "629e107ad10ee334bd9793e5"
+  },
+  "ime": "Filip",
+  "prezime": "Krovinović",
+  "spol": "M",
+  "pozicija": "vezni",
+  "grad": "Zagreb",
+  "brUtakmica": 27,
+  "datumRodenja": "1995-08-29",
+  "visina": "175cm",
+  "tezina": "70kg",
+  "brojDresa": 23
+},{
+  "_id": {
+    "$oid": "629e10f8d10ee334bd9793e6"
+  },
+  "ime": "Lukas",
+  "prezime": "Grgić",
+  "spol": "M",
+  "pozicija": "zadnji vezni",
+  "grad": "Wels",
+  "brUtakmica": 12,
+  "datumRodenja": "1995-08-17",
+  "visina": "183cm",
+  "tezina": "79kg",
+  "brojDresa": 14
+},{
+  "_id": {
+    "$oid": "629e1141d10ee334bd9793e7"
+  },
+  "ime": "Emir",
+  "prezime": "Sahiti",
+  "spol": "M",
+  "pozicija": "prednji vezni",
+  "grad": "Zemun",
+  "brUtakmica": 32,
+  "datumRodenja": "1998-11-29",
+  "visina": "174cm",
+  "tezina": "65kg",
+  "brojDresa": 77
+},{
+  "_id": {
+    "$oid": "629e118cd10ee334bd9793e8"
+  },
+  "ime": "Josip",
+  "prezime": "Vuković",
+  "spol": "M",
+  "pozicija": "zadnji vezni",
+  "grad": "Split",
+  "brUtakmica": 24,
+  "datumRodenja": "1992-05-02",
+  "visina": "184cm",
+  "tezina": "76kg",
+  "brojDresa": 4
+},{
+  "_id": {
+    "$oid": "629e11ccd10ee334bd9793e9"
+  },
+  "ime": "Marco",
+  "prezime": "Fossati",
+  "spol": "M",
+  "pozicija": "vezni",
+  "grad": "Monza",
+  "brUtakmica": 26,
+  "datumRodenja": "1992-10-05",
+  "visina": "180cm",
+  "tezina": "71kg",
+  "brojDresa": 6
+},{
+  "_id": {
+    "$oid": "629e1223d10ee334bd9793ea"
+  },
+  "ime": "Jani",
+  "prezime": "Atanasov",
+  "spol": "M",
+  "pozicija": "vezni",
+  "grad": "Strumica",
+  "brUtakmica": 21,
+  "datumRodenja": "1999-10-31",
+  "visina": "184cm",
+  "tezina": "77kg",
+  "brojDresa": 20
+},{
+  "_id": {
+    "$oid": "629e1262d10ee334bd9793eb"
+  },
+  "ime": "Rokas",
+  "prezime": "Pukštas",
+  "spol": "M",
+  "pozicija": "prednji vezni",
+  "grad": "Stillwater",
+  "brUtakmica": 1,
+  "datumRodenja": "2004-08-25",
+  "visina": "181cm",
+  "tezina": "75kg",
+  "brojDresa": 21
+}]

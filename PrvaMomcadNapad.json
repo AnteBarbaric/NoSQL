@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "629e13b1d10ee334bd9793f4"
+  },
+  "ime": "Marko",
+  "prezime": "Livaja",
+  "spol": "M",
+  "pozicija": "napadač",
+  "grad": "Split",
+  "brUtakmica": 34,
+  "datumRodenja": "1993-08-26",
+  "visina": "182cm",
+  "tezina": "80kg",
+  "brojDresa": 10
+},{
+  "_id": {
+    "$oid": "629e145bd10ee334bd9793f5"
+  },
+  "ime": "Nikola",
+  "prezime": "Kalinić",
+  "spol": "M",
+  "pozicija": "napadač",
+  "grad": "Split",
+  "brUtakmica": 11,
+  "datumRodenja": "1988-01-05",
+  "visina": "187cm",
+  "tezina": "80kg",
+  "brojDresa": 9
+},{
+  "_id": {
+    "$oid": "629e1490d10ee334bd9793f6"
+  },
+  "ime": "Jan",
+  "prezime": "Mlakar",
+  "spol": "M",
+  "pozicija": "napadač",
+  "grad": "Ljubljana",
+  "brUtakmica": 27,
+  "datumRodenja": "1998-10-23",
+  "visina": "183cm",
+  "tezina": "78kg",
+  "brojDresa": 29
+},{
+  "_id": {
+    "$oid": "629e14c4d10ee334bd9793f7"
+  },
+  "ime": "Marin",
+  "prezime": "Ljubičić",
+  "spol": "M",
+  "pozicija": "napadač",
+  "grad": "Split",
+  "brUtakmica": 30,
+  "datumRodenja": "2002-02-28",
+  "visina": "183cm",
+  "tezina": "77kg",
+  "brojDresa": 90
+},{
+  "_id": {
+    "$oid": "629e1503d10ee334bd9793f8"
+  },
+  "ime": "Stipe",
+  "prezime": "Biuk",
+  "spol": "M",
+  "pozicija": "napadač",
+  "grad": "Split",
+  "brUtakmica": 28,
+  "datumRodenja": "2002-12-26",
+  "visina": "182cm",
+  "tezina": "70kg",
+  "brojDresa": 27
+},{
+  "_id": {
+    "$oid": "629e1548d10ee334bd9793f9"
+  },
+  "ime": "Alexander",
+  "prezime": "Kačaniklić",
+  "spol": "M",
+  "pozicija": "napadač",
+  "grad": "Helsingborg",
+  "brUtakmica": 10,
+  "datumRodenja": "1991-08-13",
+  "visina": "181cm",
+  "tezina": "72kg",
+  "brojDresa": 7
+},{
+  "_id": {
+    "$oid": "629e158dd10ee334bd9793fa"
+  },
+  "ime": "Samuel Emem",
+  "prezime": "Eduok",
+  "spol": "M",
+  "pozicija": "napadač",
+  "grad": "Itu",
+  "brUtakmica": 4,
+  "datumRodenja": "1994-01-31",
+  "visina": "176cm",
+  "tezina": "76kg",
+  "brojDresa": 11
+}]

@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "629e1f89d10ee334bd979428"
+  },
+  "tip suvenira": "kemijska olovka",
+  "boja": "bijela",
+  "cijena": "113kn"
+},{
+  "_id": {
+    "$oid": "629e1fe2d10ee334bd979429"
+  },
+  "tip suvenira": "olovka",
+  "boja": "bijela",
+  "cijena": "43kn"
+},{
+  "_id": {
+    "$oid": "629e1ff7d10ee334bd97942a"
+  },
+  "tip suvenira": "novčanik",
+  "boja": "crni",
+  "cijena": "351kn"
+},{
+  "_id": {
+    "$oid": "629e2014d10ee334bd97942b"
+  },
+  "tip suvenira": "podmetači za čaše",
+  "boja": "bijela",
+  "cijena": "34kn"
+},{
+  "_id": {
+    "$oid": "629e2030d10ee334bd97942c"
+  },
+  "tip suvenira": "upaljač",
+  "boja": "bijela",
+  "cijena": "23kn"
+},{
+  "_id": {
+    "$oid": "629e2059d10ee334bd97942d"
+  },
+  "tip suvenira": "čaše",
+  "boja": "bijela",
+  "cijena": "57kn"
+},{
+  "_id": {
+    "$oid": "629e2078d10ee334bd97942e"
+  },
+  "tip suvenira": "čaše",
+  "boja": "crvena",
+  "cijena": "57kn"
+},{
+  "_id": {
+    "$oid": "629e2088d10ee334bd97942f"
+  },
+  "tip suvenira": "pepeljara",
+  "boja": "bijela",
+  "cijena": "37kn"
+},{
+  "_id": {
+    "$oid": "629e20a0d10ee334bd979430"
+  },
+  "tip suvenira": "nožić",
+  "boja": "crni",
+  "cijena": "147kn"
+},{
+  "_id": {
+    "$oid": "629e20bed10ee334bd979431"
+  },
+  "tip suvenira": "karte",
+  "boja": "crveno-plave",
+  "cijena": "61kn"
+},{
+  "_id": {
+    "$oid": "629e20eed10ee334bd979432"
+  },
+  "tip suvenira": "maska za mobitel",
+  "boja": "bijela",
+  "cijena": "74kn"
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "629e1c78d10ee334bd97941f"
+  },
+  "tip odjeće": "majica",
+  "spol": "muški",
+  "vrsta": "kratki rukav",
+  "boja": "bijela",
+  "veličina": "XL",
+  "cijena": "80kn"
+},{
+  "_id": {
+    "$oid": "629e1d52d10ee334bd979420"
+  },
+  "tip odjeće": "hlače",
+  "spol": "muški",
+  "vrsta": "kratke",
+  "boja": "crne",
+  "veličina": "32",
+  "cijena": "100kn"
+},{
+  "_id": {
+    "$oid": "629e1d7bd10ee334bd979421"
+  },
+  "tip odjeće": "majica",
+  "spol": "ženski",
+  "vrsta": "dugi rukav",
+  "boja": "crvena",
+  "veličina": "XS",
+  "cijena": "70kn"
+},{
+  "_id": {
+    "$oid": "629e1db8d10ee334bd979422"
+  },
+  "tip odjeće": "hlače",
+  "spol": "ženske",
+  "vrsta": "duge",
+  "boja": "crne",
+  "veličina": "30",
+  "cijena": "85kn"
+},{
+  "_id": {
+    "$oid": "629e1e01d10ee334bd979423"
+  },
+  "tip odjeće": "majica dječija",
+  "spol": "muški",
+  "vrsta": "kratki rukav",
+  "boja": "žuta",
+  "veličina": "M",
+  "cijena": "55kn"
+},{
+  "_id": {
+    "$oid": "629e1e2bd10ee334bd979424"
+  },
+  "tip odjeće": "trenerka",
+  "spol": "muški",
+  "vrsta": "duga",
+  "boja": "plava",
+  "veličina": "L",
+  "cijena": "200kn"
+},{
+  "_id": {
+    "$oid": "629e1e5bd10ee334bd979425"
+  },
+  "tip odjeće": "trenerka",
+  "spol": "ženska",
+  "vrsta": "duga",
+  "boja": "crvena",
+  "veličina": "S",
+  "cijena": "170kn"
+},{
+  "_id": {
+    "$oid": "629e215cd10ee334bd979435"
+  },
+  "tip odjeće": "dres",
+  "spol": "muški",
+  "vrsta": "kratki rukav",
+  "boja": "bijela",
+  "veličina": "L",
+  "cijena": "500kn"
+},{
+  "_id": {
+    "$oid": "629e2186d10ee334bd979436"
+  },
+  "tip odjeće": "dres",
+  "spol": "muški",
+  "vrsta": "kratki rukav",
+  "boja": "crveno-plavi",
+  "veličina": "L",
+  "cijena": "465kn"
+},{
+  "_id": {
+    "$oid": "629e21a0d10ee334bd979437"
+  },
+  "tip odjeće": "dres",
+  "spol": "muški",
+  "vrsta": "kratki rukav",
+  "boja": "zlatna",
+  "veličina": "L",
+  "cijena": "465kn"
+}]

@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "629e2506d10ee334bd97945a"
+  },
+  "tip": "pretplata",
+  "tribina": "zapad",
+  "ulaz": "C,D,E,F",
+  "cijena": "525kn"
+},{
+  "_id": {
+    "$oid": "629e255cd10ee334bd97945b"
+  },
+  "tip": "pretplata",
+  "tribina": "zapad PREMIUM",
+  "ulaz": "D,E",
+  "cijena": "1050kn"
+},{
+  "_id": {
+    "$oid": "629e2578d10ee334bd97945c"
+  },
+  "tip": "pretplata",
+  "tribina": "sjever",
+  "ulaz": "H,I,J,K,L,M",
+  "cijena": "275kn"
+},{
+  "_id": {
+    "$oid": "629e2595d10ee334bd97945d"
+  },
+  "tip": "pretplata",
+  "tribina": "istok",
+  "ulaz": "O,P,R,S",
+  "cijena": "425kn"
+},{
+  "_id": {
+    "$oid": "629e261dd10ee334bd97945f"
+  },
+  "tip": "članska",
+  "cijena": "100kn"
+},{
+  "_id": {
+    "$oid": "629e2635d10ee334bd979460"
+  },
+  "tip": "karta",
+  "tribina": "zapad",
+  "ulaz": "C,D,E,F",
+  "cijena": "100kn"
+},{
+  "_id": {
+    "$oid": "629e2678d10ee334bd979463"
+  },
+  "tip": "karta",
+  "tribina": "istok",
+  "ulaz": "O,P,R,S",
+  "cijena": "80kn"
+},{
+  "_id": {
+    "$oid": "629e268cd10ee334bd979464"
+  },
+  "tip": "karta",
+  "tribina": "sjever",
+  "ulaz": "H,I,J,K,L,M",
+  "cijena": "40kn"
+}]

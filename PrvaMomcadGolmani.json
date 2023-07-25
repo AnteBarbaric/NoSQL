@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "629df330d10ee334bd9793c3"
+  },
+  "ime": "Lovre",
+  "prezime": "Kalinić",
+  "spol": "M",
+  "pozicija": "golman",
+  "grad": "Split",
+  "brUtakmica": 32,
+  "datumRodenja": "1990-04-03",
+  "visina": "201cm",
+  "tezina": "96kg",
+  "brojDresa": 91
+},{
+  "_id": {
+    "$oid": "629df5a3d10ee334bd9793ca"
+  },
+  "ime": "Danijel",
+  "prezime": "Subašić",
+  "spol": "M",
+  "pozicija": "golman",
+  "grad": "Zadar",
+  "brUtakmica": 2,
+  "datumRodenja": "1984-10-27",
+  "visina": "191cm",
+  "tezina": "86kg",
+  "brojDresa": 1
+},{
+  "_id": {
+    "$oid": "629df5e5d10ee334bd9793cc"
+  },
+  "ime": "Josip",
+  "prezime": "Posavec",
+  "spol": "M",
+  "pozicija": "golman",
+  "grad": "Varaždin",
+  "brUtakmica": 2,
+  "datumRodenja": "1996-3-10",
+  "visina": "190cm",
+  "tezina": "85kg",
+  "brojDresa": 70
+},{
+  "_id": {
+    "$oid": "629df62cd10ee334bd9793cd"
+  },
+  "ime": "Toni",
+  "prezime": "Silić",
+  "spol": "M",
+  "pozicija": "golman",
+  "grad": "Split",
+  "brUtakmica": 4,
+  "datumRodenja": "2004-5-7",
+  "visina": "193cm",
+  "tezina": "86kg",
+  "brojDresa": 33
+},{
+  "_id": {
+    "$oid": "629df664d10ee334bd9793ce"
+  },
+  "ime": "Ivan",
+  "prezime": "Perić",
+  "spol": "M",
+  "pozicija": "golman",
+  "grad": "Dubrovnik",
+  "brUtakmica": 3,
+  "datumRodenja": "2002-01-02",
+  "visina": "198cm",
+  "tezina": "92kg",
+  "brojDresa": 40
+}]

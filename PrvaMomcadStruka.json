@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "629e161ad10ee334bd979405"
+  },
+  "ime": "Mindaugas",
+  "prezime": "Nikoličius",
+  "spol": "M",
+  "posao": "sportski direktor",
+  "grad": "Neringa",
+  "datumRodenja": "1983-10-05"
+},{
+  "_id": {
+    "$oid": "629e1674d10ee334bd979406"
+  },
+  "ime": "Valdas",
+  "prezime": "Dambrauskas",
+  "spol": "M",
+  "posao": "glavni trener",
+  "grad": "Pakruoijis",
+  "datumRodenja": "1977-01-07"
+},{
+  "_id": {
+    "$oid": "629e171cd10ee334bd979407"
+  },
+  "ime": "Marius",
+  "prezime": "Skinderis",
+  "spol": "M",
+  "posao": "pomoćni trener",
+  "grad": "Panevežys",
+  "datumRodenja": "1974-10-13"
+},{
+  "_id": {
+    "$oid": "629e174fd10ee334bd979408"
+  },
+  "ime": "Mislav",
+  "prezime": "Karoglan",
+  "spol": "M",
+  "posao": "pomoćni trener",
+  "grad": "Imotski",
+  "datumRodenja": "1982-04-14"
+},{
+  "_id": {
+    "$oid": "629e1786d10ee334bd979409"
+  },
+  "ime": "Justinas",
+  "prezime": "Gasiunas",
+  "spol": "M",
+  "posao": "trener vratara",
+  "grad": "Jonava",
+  "datumRodenja": "1985-04-21"
+},{
+  "_id": {
+    "$oid": "629e17b4d10ee334bd97940a"
+  },
+  "ime": "Ian",
+  "prezime": "Coll",
+  "spol": "M",
+  "posao": "voditelj kondicijske pripreme",
+  "grad": "Ayr",
+  "datumRodenja": "1980-07-05"
+},{
+  "_id": {
+    "$oid": "629e17fbd10ee334bd97940b"
+  },
+  "ime": "Šime",
+  "prezime": "Veršić",
+  "spol": "M",
+  "posao": "kondicijski trener",
+  "grad": "Split",
+  "datumRodenja": "1988-02-12"
+},{
+  "_id": {
+    "$oid": "629e182dd10ee334bd97940c"
+  },
+  "ime": "Stjepan",
+  "prezime": "Badrov",
+  "spol": "M",
+  "posao": "team manager",
+  "grad": "Travnik",
+  "datumRodenja": "1987-12-01"
+},{
+  "_id": {
+    "$oid": "629e186ad10ee334bd97940d"
+  },
+  "ime": "Antonio",
+  "prezime": "Sebežević",
+  "spol": "M",
+  "posao": "video analitičar",
+  "grad": "Split",
+  "datumRodenja": "1990-10-05"
+}]

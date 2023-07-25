@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "629e198bd10ee334bd979410"
+  },
+  "uzrast": "juniori",
+  "glavni trener": "Marijan Budimir",
+  "broj igrača": 25,
+  "trener vratara": "Stjepan Radovančić",
+  "individualni rad": "Vinko Bego"
+},{
+  "_id": {
+    "$oid": "629e19fad10ee334bd979411"
+  },
+  "uzrast": "juniori 2",
+  "glavni trener": "Ivan Vukasović",
+  "broj igrača": 16,
+  "trener vratara": "Stjepan Radovančić",
+  "individualni rad": "Vinko Bego"
+},{
+  "_id": {
+    "$oid": "629e1a1ad10ee334bd979412"
+  },
+  "uzrast": "kadeti",
+  "glavni trener": "Luka Vučko",
+  "broj igrača": 25,
+  "trener vratara": "Stjepan Radovančić",
+  "individualni rad": "Vinko Bego"
+},{
+  "_id": {
+    "$oid": "629e1a3dd10ee334bd979413"
+  },
+  "uzrast": "kadeti 2",
+  "glavni trener": "Zvonimir Tomić",
+  "broj igrača": 15,
+  "trener vratara": "Darko Franić",
+  "individualni rad": "Vinko Bego"
+},{
+  "_id": {
+    "$oid": "629e1a8fd10ee334bd979415"
+  },
+  "uzrast": "pioniri",
+  "glavni trener": "Zlatko Jerković",
+  "broj igrača": 23,
+  "trener vratara": "Darko Franić",
+  "individualni rad": "Joško Španjić"
+},{
+  "_id": {
+    "$oid": "629e1ac2d10ee334bd979416"
+  },
+  "uzrast": "pioniri 2",
+  "glavni trener": "Mario Sičić",
+  "broj igrača": 17,
+  "trener vratara": "Darko Franić",
+  "individualni rad": "Joško Španjić"
+},{
+  "_id": {
+    "$oid": "629e1af9d10ee334bd979417"
+  },
+  "uzrast": "početnici",
+  "glavni trener": "Daniel Vušković",
+  "broj igrača": 23,
+  "trener vratara": "Darko Franić",
+  "individualni rad": "Joško Španjić"
+},{
+  "_id": {
+    "$oid": "629e1b14d10ee334bd979418"
+  },
+  "uzrast": "početnici 2",
+  "glavni trener": "Ante Puljiz",
+  "broj igrača": 17,
+  "trener vratara": "Mateo Bebić",
+  "individualni rad": "Joško Španjić"
+}]

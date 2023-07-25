@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "629df6c5d10ee334bd9793d1"
+  },
+  "ime": "Josip",
+  "prezime": "Elez",
+  "spol": "M",
+  "pozicija": "stoper",
+  "grad": "Split",
+  "brUtakmica": 39,
+  "datumRodenja": "1994-04-25",
+  "visina": "189cm",
+  "tezina": "89kg",
+  "brojDresa": 19
+},{
+  "_id": {
+    "$oid": "629df704d10ee334bd9793d2"
+  },
+  "ime": "Francisco Reis",
+  "prezime": "Ferreira",
+  "spol": "M",
+  "pozicija": "stoper",
+  "grad": "Azemeis",
+  "brUtakmica": 14,
+  "datumRodenja": "1997-03-26",
+  "visina": "191cm",
+  "tezina": "83kg",
+  "brojDresa": 97
+},{
+  "_id": {
+    "$oid": "629e0ef1d10ee334bd9793d8"
+  },
+  "ime": "Stefan",
+  "prezime": "Simić",
+  "spol": "M",
+  "pozicija": "stoper",
+  "grad": "Prag",
+  "brUtakmica": 22,
+  "datumRodenja": "1995-01-20",
+  "visina": "189cm",
+  "tezina": "79kg",
+  "brojDresa": 8
+},{
+  "_id": {
+    "$oid": "629e0f3cd10ee334bd9793d9"
+  },
+  "ime": "Dino",
+  "prezime": "Mikanović",
+  "spol": "M",
+  "pozicija": "desni bek",
+  "grad": "Nova Gradiška",
+  "brUtakmica": 16,
+  "datumRodenja": "1994-05-07",
+  "visina": "174cm",
+  "tezina": "70kg",
+  "brojDresa": 24
+},{
+  "_id": {
+    "$oid": "629e0f85d10ee334bd9793da"
+  },
+  "ime": "Gergo",
+  "prezime": "Lovrencsics",
+  "spol": "M",
+  "pozicija": "desni bek",
+  "grad": "Szolnok",
+  "brUtakmica": 30,
+  "datumRodenja": "1988-09-01",
+  "visina": "177cm",
+  "tezina": "75kg",
+  "brojDresa": 26
+},{
+  "_id": {
+    "$oid": "629e0fced10ee334bd9793db"
+  },
+  "ime": "Dario",
+  "prezime": "Melnjak",
+  "spol": "M",
+  "pozicija": "lijevi bek",
+  "grad": "Varaždin",
+  "brUtakmica": 28,
+  "datumRodenja": "1992-10-31",
+  "visina": "179cm",
+  "tezina": "72kg",
+  "brojDresa": 17
+},{
+  "_id": {
+    "$oid": "629e100cd10ee334bd9793dc"
+  },
+  "ime": "David",
+  "prezime": "Čolina",
+  "spol": "M",
+  "pozicija": "lijevi bek",
+  "grad": "Zagreb",
+  "brUtakmica": 31,
+  "datumRodenja": "2000-07-19",
+  "visina": "174cm",
+  "tezina": "68kg",
+  "brojDresa": 3
+}]

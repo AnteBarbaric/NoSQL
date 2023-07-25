@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "629e2253d10ee334bd979442"
+  },
+  "ime": "Antonela",
+  "prezime": "Torlak",
+  "spol": "Ž",
+  "pozicija": "golmanica",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e2291d10ee334bd979443"
+  },
+  "ime": "Karla",
+  "prezime": "Jonjić",
+  "spol": "Ž",
+  "pozicija": "golmanica",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e22a8d10ee334bd979444"
+  },
+  "ime": "Karmela Paula",
+  "prezime": "Matković",
+  "spol": "Ž",
+  "pozicija": "golmanica",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e22cfd10ee334bd979445"
+  },
+  "ime": "Nina",
+  "prezime": "Vučica",
+  "spol": "Ž",
+  "pozicija": "obrambeni",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e22efd10ee334bd979446"
+  },
+  "ime": "Lora",
+  "prezime": "Martinović",
+  "spol": "Ž",
+  "pozicija": "obrambeni",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e2311d10ee334bd979447"
+  },
+  "ime": "Ana",
+  "prezime": "Kraljević",
+  "spol": "Ž",
+  "pozicija": "obrambeni",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e232ad10ee334bd979448"
+  },
+  "ime": "Maria",
+  "prezime": "Turkalj",
+  "spol": "Ž",
+  "pozicija": "obrambeni",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e233dd10ee334bd979449"
+  },
+  "ime": "Matea",
+  "prezime": "Granić",
+  "spol": "Ž",
+  "pozicija": "vezni",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e2357d10ee334bd97944a"
+  },
+  "ime": "Mia",
+  "prezime": "Deranja",
+  "spol": "Ž",
+  "pozicija": "vezni",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e236dd10ee334bd97944b"
+  },
+  "ime": "Sara",
+  "prezime": "Erceg",
+  "spol": "Ž",
+  "pozicija": "vezni",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e2382d10ee334bd97944c"
+  },
+  "ime": "Lucija",
+  "prezime": "Mudrinić",
+  "spol": "Ž",
+  "pozicija": "napadačica",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e2399d10ee334bd97944d"
+  },
+  "ime": "Gabrijela",
+  "prezime": "Dugandžić",
+  "spol": "Ž",
+  "pozicija": "napadačica",
+  "grad": "Split"
+},{
+  "_id": {
+    "$oid": "629e23bbd10ee334bd97944e"
+  },
+  "ime": "Ana",
+  "prezime": "Bakalar",
+  "spol": "Ž",
+  "pozicija": "napadačica",
+  "grad": "Split"
+}]
